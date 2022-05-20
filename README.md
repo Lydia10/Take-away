@@ -13,13 +13,13 @@ The player who removes the last stone(s) wins.
 
 
 # Play Options
-   `-h` to display `h`elp text and exit.
-   `-c` to play against the `c`omputer. (Default = false).
-   `-p` to set an exact number of `p`iles.
-   `-s` to set an exact number of `s`tones in each pile.
+ - `-h` to display help text and exit.
+ - `-c` to play against the computer. (Default = false).
+ - `-p` to set an exact number of piles.
+ - `-s` to set an exact number of stones in each pile.
    
-   Max values for piles and stones: 99
-   Min values for piles and stones: 1
+ - Max values for piles and stones: 99
+ - Min values for piles and stones: 1
 
 
 # Usage
