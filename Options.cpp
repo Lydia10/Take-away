@@ -1,6 +1,3 @@
-// Jiao Ma
-// student ID: 5550045131
-
 #include <iostream>
 #include <cstring>
 #include "Game.h"

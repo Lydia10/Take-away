@@ -1,6 +1,3 @@
-// Jiao Ma
-// student ID: 5550045131
-
 #ifndef GAME_H_
 #define GAME_H_
 #include <vector>
